@@ -1,0 +1,34 @@
+{
+    "name": "Controls",
+    "maps": [
+        {
+            "name": "AppControls",
+            "id": "8a8784d0-752b-41ed-9675-688160e588ac",
+            "actions": [
+                {
+                    "name": "Back",
+                    "type": "Button",
+                    "id": "db4e498f-cab3-4c35-88c3-0e526f8f4d85",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "1a6d7cbf-44cb-49e8-b4e9-394f446aba57",
+                    "path": "*/{Back}",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Back",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
